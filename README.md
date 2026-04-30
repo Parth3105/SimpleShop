@@ -2,7 +2,7 @@
 
 SimpleShop is a frontend-only React application built to demonstrate advanced UI state management, rendering performance optimization, and graceful error handling. It utilizes mock API data to simulate an e-commerce checkout flow, focusing heavily on how the frontend architecture manages complex user interactions, large datasets, and unpredictable network responses.
 
-**Application Demo: [https://intuitivetp-my.sharepoint.com/:v:/g/personal/parth_vadodaria_intuitive_ai/IQAEUnYoZxZnRpzN97MpvKLkAayEOlqdPBIF4vhgKl3V8IE?e=A8fytJ](https://intuitivetp-my.sharepoint.com/:v:/g/personal/parth_vadodaria_intuitive_ai/IQAEUnYoZxZnRpzN97MpvKLkAayEOlqdPBIF4vhgKl3V8IE?e=A8fytJ)**
+**Application Demo: [https://drive.google.com/file/d/1tbFANFMhfmyeGzU6THL1hiBN-XQpj5MA/view?usp=sharing](https://drive.google.com/file/d/1tbFANFMhfmyeGzU6THL1hiBN-XQpj5MA/view?usp=sharing)**
 
 
 ## Key Features
